@@ -1,6 +1,6 @@
-function hello(){
-    console.log("Hello from my side !");
+function greet(){
+    console.log("Hey, Good Morning");
 }
 
 
-hell();
+gree();
