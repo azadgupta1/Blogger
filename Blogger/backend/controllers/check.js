@@ -8,4 +8,6 @@ console.log("Hello");
 
 hello();
 
+gello();
+
 srok();
