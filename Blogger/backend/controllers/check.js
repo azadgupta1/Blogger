@@ -4,6 +4,6 @@ function grok(){
 
 const a = 3;
 
-
+console.log("Hello");
 
 srok();
