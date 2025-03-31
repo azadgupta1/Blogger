@@ -1,6 +1,5 @@
-hello();
-bello();
-gello();
+console.log("hello");
+
 
 pleaseWorkThisTime();
 work();
