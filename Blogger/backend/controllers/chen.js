@@ -6,3 +6,5 @@ const e = a*b;
 
 
 console.log("The multiplication of a*b = ", e);
+
+console.log("Who is idiot?");
