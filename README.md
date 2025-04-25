@@ -1,29 +1,8 @@
-//This code is improved by removing the calls to undefined functions.  Error handling and logging are crucial for production code, but  are omitted here for brevity, as the prompt only asked for code fixes, not extensive error handling.  In a real-world scenario, these would be added.
+const a = 3;
 
-console.log("hello");
+const b = 4;
 
-
-function cello() {
-    //Add functionality here if needed.  Currently, it does nothing.
-}
-
-function illo() {
-    //Add functionality here if needed. Currently, it does nothing.
-}
+const b = 1;
 
 
-function gello() {
-    //Add functionality here if needed. Currently, it does nothing.
-}
-
-function pleaseWorkThisTime() {
-    //Add functionality here if needed. Currently, it does nothing.
-}
-
-function work() {
-    //Add functionality here if needed. Currently, it does nothing.
-}
-
-function jello() {
-    //Add functionality here if needed. Currently, it does nothing.
-}
+console.log("The difference is : ", 3-4);
