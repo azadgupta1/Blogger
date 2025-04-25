@@ -1,8 +1,6 @@
 const a = 3;
-
 const b = 4;
 
-const b = 1;
+const difference = a - b;
 
-
-console.log("The difference is : ", 3-4);
+console.log("The difference is:", difference);
