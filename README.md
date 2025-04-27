@@ -1,5 +1,5 @@
 const a = 3;
-const b = 4;
+cons b = 4;
 
 cons difference = a - b;
 
