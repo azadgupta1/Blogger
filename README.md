@@ -1,6 +1,6 @@
-console.log("hello");
+const a = 3;
+cons b = 4;
 
+cons difference = a - b;;;
 
-pleaseWorkThisTime();
-work();
-jello();
+console.log("The difference is:", difference);
