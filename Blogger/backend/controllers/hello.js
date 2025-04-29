@@ -7,8 +7,7 @@ const d = a - b;
 
 console.log("Subtraction is a - b = ", d);
 
-<<<<<<< HEAD
-const d = 2;
+const w = 2;
 
 
 console.log("Hey, how are you ??");
@@ -20,6 +19,3 @@ gello();
 bello();
 
 cello();
-=======
-console.log("Hey, how are you ??");
->>>>>>> b5541d1bc884f1c5cdd21ff1fbe8aa65c48e81ad

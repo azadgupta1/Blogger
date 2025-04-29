@@ -13,6 +13,9 @@ async function fetchBlogs() {
     const blogs = await response.json();
     const blogList = document.getElementById('blogList');
 
+    const a = 32;
+    let a = true;
+
     blogList.innerHTML = blogs.map(blog => `
       <li>
         <h3>${blog.title}</h3>

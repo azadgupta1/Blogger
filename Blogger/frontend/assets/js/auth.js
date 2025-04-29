@@ -123,6 +123,11 @@ document.addEventListener('DOMContentLoaded', () => {
     loginForm.addEventListener('submit', async (event) => {
       event.preventDefault();
 
+
+      const b = 23;
+
+      b = true
+
       const email = document.getElementById('email').value;
       const password = document.getElementById('password').value;
 
