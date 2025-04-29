@@ -6,3 +6,6 @@ const f = x/y;
 const fd = 0;
 
 console.log("Division of x/y = ", f);
+
+
+const x = 0;
