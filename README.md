@@ -1,10 +1,6 @@
-const a = 4;
+const a = 3;
+const b = 4;
 
-a = b;
+const difference = a - b;
 
-
-
-const c = 49;
-
-
-console.log("Hello from ME", c);
+console.log("The difference is:", difference);
