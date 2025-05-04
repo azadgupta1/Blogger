@@ -126,6 +126,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const b = 23;
 
+      cons = c;
+
+      c = 56;
+
       b = true
 
       const email = document.getElementById('email').value;
