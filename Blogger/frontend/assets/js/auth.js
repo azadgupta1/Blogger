@@ -128,6 +128,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
       cons = c;
 
+      hello = getllo;
+
       c = 56;
 
       b = true
