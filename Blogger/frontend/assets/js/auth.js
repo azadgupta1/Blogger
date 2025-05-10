@@ -130,6 +130,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
       hello = getllo;
 
+      hey();
+
       c = 56;
 
       b = true
