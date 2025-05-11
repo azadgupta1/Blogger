@@ -5,17 +5,9 @@ const difference = a - b;
 
 console.log("The difference is:", difference);
 
-// Removed unused and problematic assignments
-// c = console.log;  //This is bad practice and unused.
-// cons =  45;; //This is an unused variable and the double semicolon is a syntax error.
-// a = d; // d is not defined.
-// g = 23; // g is not defined and unused
-
-
-//Functions are not defined.  Throwing errors is better than silently failing.
-try{
-    hello();
-    fello();
-} catch (error){
-    console.error("Error: Undefined function called", error);
-}
+//Removed unused and problematic lines
+//c = console.log
+//cons =  45;;
+//a = d; // d is not defined
+//g = 23; // g is not defined
+//hello(); // hello is not defined
