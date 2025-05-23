@@ -6,3 +6,9 @@ const difference = a - b;
 console.log("The difference is:", difference);
 
 
+const = hello;
+
+
+console.log(hello);
+
+
