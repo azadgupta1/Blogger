@@ -8,3 +8,5 @@ console.log("The difference is:", difference);
 const hello = "hello"; // Fixed: Removed the extra '=' and assigned a value.
 
 console.log(hello);
+
+hello = 3;
