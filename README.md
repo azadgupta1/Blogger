@@ -6,3 +6,4 @@ function Hello() {
 
 Hello();
 
+const 1 = 2;
