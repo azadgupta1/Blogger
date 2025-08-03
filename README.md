@@ -6,4 +6,11 @@ function Hello() {
 
 Hello();
 
-const 1 = 2;
+f();
+
+
+c();
+
+
+const b = 20;
+b = 300;
