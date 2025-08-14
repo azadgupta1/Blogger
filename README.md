@@ -6,11 +6,6 @@ function Hello() {
 
 Hello();
 
-f();
-
-d();
-e();
-
 const = 20;
 
 
