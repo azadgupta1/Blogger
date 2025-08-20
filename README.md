@@ -8,5 +8,6 @@ Hello();
 
 const = 20;
 
+const b = hello;
 
 c();
