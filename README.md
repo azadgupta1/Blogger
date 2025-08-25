@@ -4,10 +4,4 @@ function Hello() {
   console.log("Hello, world!");
 }
 
-Hello();
 
-const = 20;
-
-const b = hello;
-
-c();
